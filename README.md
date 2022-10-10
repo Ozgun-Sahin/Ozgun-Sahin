@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozgun-sahin" alt="ozgun-sahin" /></a> </p>
 
-- 🔭 I’m currently working on [BookStoreApi](https://github.com/Ozgun-Sahin/MovieStoreWebApi)
+- 🔭 I’m currently working on [MovieStoreApi](https://github.com/Ozgun-Sahin/MovieStoreWebApi)
 
 - 🌱 I’m currently learning **.Net Core Framework**
 
