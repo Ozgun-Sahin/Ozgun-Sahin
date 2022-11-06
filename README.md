@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [MovieStoreApi](https://github.com/Ozgun-Sahin/MovieStoreWebApi)
 
-- 🌱 I’m currently learning **.Net Core **
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **ozgun_sahin@outlook.com**
 
