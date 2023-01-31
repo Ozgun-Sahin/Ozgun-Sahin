@@ -6,7 +6,7 @@
 
 <p align="left"><img src="./Content/Logo.gif" alt="ozgun-sahin" /></a> </p>
 
-- 🔭 I’m currently working on [Super-Folio](https://github.com/Ozgun-Sahin/Super-Folio)
+- 🔭 I’m currently working on [ReadlDayBey Painting](https://github.com/Ozgun-Sahin/RealDayBey-Painting)
 
 - 🌱 I’m currently learning **.Net Core**
 
