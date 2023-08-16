@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ReadlDayBey Painting](https://github.com/Ozgun-Sahin/RealDayBey-Painting)
 
-- 🌱 I’m currently learning **.Net Core**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ozgun_sahin@outlook.com**
 
