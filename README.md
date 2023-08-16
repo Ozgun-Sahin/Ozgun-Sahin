@@ -6,7 +6,7 @@
 
 <p align="left"><img src="./Content/Logo.gif" alt="ozgun-sahin" /></a> </p>
 
-- 🔭 I’m currently working on [ReadlDayBey Painting](https://github.com/Ozgun-Sahin/RealDayBey-Painting)
+- 🔭 I’m currently working on a personal project ( [API](https://github.com/Ozgun-Sahin/ETicaretAPI) , [FrontEnd](https://github.com/Ozgun-Sahin/ETicaretClient) )
 
 - 🌱 I’m currently learning **Angular**
 
